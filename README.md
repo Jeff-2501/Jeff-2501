@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi, I'm Jefferson 👋 👨‍💻</h1>
-<h3 align="center">A passionate frontend developer from Bogota, Colombia</h3>
+<h3 align="center">Welcome to my repository</h3>
 
 ### About me in code
 
