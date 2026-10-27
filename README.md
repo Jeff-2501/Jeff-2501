@@ -14,7 +14,7 @@ const Jefferson_Escobar = {
 
 ### <h3 align="left">You can find me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/jefferson-esc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jefferson-esc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/jefferson-esc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jefferson-esc/" height="30" width="40" /></a>
 </p>
 
 <!---
